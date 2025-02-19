@@ -1,14 +1,14 @@
 import { useState } from 'react'
-import './App.css'
+import { QuizBox } from './Components/QuizBox'
 
 function App() {
   const [count, setCount] = useState(0)
 
+  console.log('app rendered')
+
   return (
     <>
-      <div>
-        <h1>Hello</h1>
-      </div>
+      <QuizBox />
     </>
   )
 }
