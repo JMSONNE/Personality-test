@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { QuizBox } from './Components/QuizBox'
 
 function App() {
   const [count, setCount] = useState(0)

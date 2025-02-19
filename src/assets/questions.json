@@ -1,0 +1,7 @@
+const questions = [
+    {
+        id: 1,
+        question: 'After a long social event, do you feel:',
+        options: ['Drained and needing alone time', 'Energized and wanting more interaction']
+    },
+];
