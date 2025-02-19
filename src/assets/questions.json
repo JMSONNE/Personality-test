@@ -1,7 +1,183 @@
-const questions = [
+[
     {
-        id: 1,
-        question: 'After a long social event, do you feel:',
-        options: ['Drained and needing alone time', 'Energized and wanting more interaction']
+      "id": 1,
+      "category": "I/E",
+      "question": "After a long social event, do you feel:",
+      "answers": [
+        { "text": "Drained and needing alone time", "type": "I" },
+        { "text": "Energized and wanting more interaction", "type": "E" }
+      ]
     },
-];
+    {
+      "id": 2,
+      "category": "I/E",
+      "question": "Do you prefer to:",
+      "answers": [
+        { "text": "Reflect before speaking", "type": "I" },
+        { "text": "Think out loud", "type": "E" }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "I/E",
+      "question": "In a new environment, do you:",
+      "answers": [
+        { "text": "Observe quietly before engaging", "type": "I" },
+        { "text": "Jump in and introduce yourself", "type": "E" }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "I/E",
+      "question": "Would you rather:",
+      "answers": [
+        { "text": "Spend a weekend alone or with close friends", "type": "I" },
+        { "text": "Attend a large social gathering", "type": "E" }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "I/E",
+      "question": "Do you recharge more by:",
+      "answers": [
+        { "text": "Spending time alone", "type": "I" },
+        { "text": "Being around people", "type": "E" }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "S/N",
+      "question": "When learning something new, do you prefer:",
+      "answers": [
+        { "text": "Concrete facts and hands-on examples", "type": "S" },
+        { "text": "Abstract concepts and future possibilities", "type": "N" }
+      ]
+    },
+    {
+      "id": 7,
+      "category": "S/N",
+      "question": "Do you focus more on:",
+      "answers": [
+        { "text": "What’s happening right now", "type": "S" },
+        { "text": "The bigger picture and patterns", "type": "N" }
+      ]
+    },
+    {
+      "id": 8,
+      "category": "S/N",
+      "question": "Do you trust information more when it comes from:",
+      "answers": [
+        { "text": "Direct experience", "type": "S" },
+        { "text": "Your intuition and insights", "type": "N" }
+      ]
+    },
+    {
+      "id": 9,
+      "category": "S/N",
+      "question": "When recalling past events, do you remember:",
+      "answers": [
+        { "text": "Specific details and facts", "type": "S" },
+        { "text": "The overall feeling and meaning", "type": "N" }
+      ]
+    },
+    {
+      "id": 10,
+      "category": "S/N",
+      "question": "Do you prefer stories that are:",
+      "answers": [
+        { "text": "Realistic and practical", "type": "S" },
+        { "text": "Imaginative and symbolic", "type": "N" }
+      ]
+    },
+    {
+      "id": 11,
+      "category": "T/F",
+      "question": "When making decisions, do you prioritize:",
+      "answers": [
+        { "text": "Logic and fairness", "type": "T" },
+        { "text": "Personal values and emotions", "type": "F" }
+      ]
+    },
+    {
+      "id": 12,
+      "category": "T/F",
+      "question": "In conflicts, do you tend to:",
+      "answers": [
+        { "text": "Stay objective and solve the problem rationally", "type": "T" },
+        { "text": "Consider people’s feelings and maintain harmony", "type": "F" }
+      ]
+    },
+    {
+      "id": 13,
+      "category": "T/F",
+      "question": "When giving feedback, do you:",
+      "answers": [
+        { "text": "Focus on constructive criticism", "type": "T" },
+        { "text": "Consider how it will emotionally impact the person", "type": "F" }
+      ]
+    },
+    {
+      "id": 14,
+      "category": "T/F",
+      "question": "Do you respect people more for:",
+      "answers": [
+        { "text": "Their competence and achievements", "type": "T" },
+        { "text": "Their kindness and compassion", "type": "F" }
+      ]
+    },
+    {
+      "id": 15,
+      "category": "T/F",
+      "question": "Do you make decisions based on:",
+      "answers": [
+        { "text": "What makes the most logical sense", "type": "T" },
+        { "text": "What feels right in your heart", "type": "F" }
+      ]
+    },
+    {
+      "id": 16,
+      "category": "J/P",
+      "question": "Do you prefer:",
+      "answers": [
+        { "text": "A structured plan and clear schedule", "type": "J" },
+        { "text": "Flexibility and going with the flow", "type": "P" }
+      ]
+    },
+    {
+      "id": 17,
+      "category": "J/P",
+      "question": "When working on a project, do you:",
+      "answers": [
+        { "text": "Prefer to finish early and be organized", "type": "J" },
+        { "text": "Work best under last-minute pressure", "type": "P" }
+      ]
+    },
+    {
+      "id": 18,
+      "category": "J/P",
+      "question": "Do you like to keep things:",
+      "answers": [
+        { "text": "Settled and decided", "type": "J" },
+        { "text": "Open-ended and adaptable", "type": "P" }
+      ]
+    },
+    {
+      "id": 19,
+      "category": "J/P",
+      "question": "When traveling, do you:",
+      "answers": [
+        { "text": "Plan everything in advance", "type": "J" },
+        { "text": "Figure things out as you go", "type": "P" }
+      ]
+    },
+    {
+      "id": 20,
+      "category": "J/P",
+      "question": "When facing a new task, do you:",
+      "answers": [
+        { "text": "Prefer to follow a clear process", "type": "J" },
+        { "text": "Experiment and adapt as needed", "type": "P" }
+      ]
+    }
+  ]
+  
