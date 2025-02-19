@@ -18,6 +18,8 @@ export const QuizBox = () => {
 
     const currentQuestion = questions[currentQuestionIndex];
 
+    console.log(currentQuestionIndex)
+
     if (isLastQuestion) {
         return (
             <div className='quiz-box'>
