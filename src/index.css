@@ -2,6 +2,12 @@
   margin: 0;
   box-sizing: border-box;
 }
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .quiz-box {
   width: 50vw;
   height: 65vh;
@@ -10,4 +16,10 @@
 }
 .question {
   text-align: center;
+}
+.answer-box {
+  height: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
