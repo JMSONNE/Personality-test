@@ -94,14 +94,16 @@ export const QuizBox = () => {
             <div className="container">
                 <div className="quiz-box">
                     <div className="question">
-                        <h1>All answers submitted</h1>
+                        <h1 className='title'>You are:</h1>
                         <hr />
-                        <div className="answer-box">
-                            <p>{personalityType}</p>
+                        <div className="result-box">
+                            <p className='value code'>{personalityType}</p>
                             {personalityTraits && (
                                 <>
-                                    <p>{personalityTraits.type}</p>
-                                    <p>{personalityTraits.traits}</p>
+                                    <h1 className="value">Name:</h1>
+                                    <p className='value'>{personalityTraits.type}</p>
+                                    <h1 className="value">Key traits:</h1>
+                                    <p className='value'>{personalityTraits.traits}</p>
                                 </>
                             )}
                         </div>
@@ -120,9 +122,9 @@ export const QuizBox = () => {
                 </div>
                 <div className="answer-box">
                     {questions[currentQuestion].answers.map((answer, index) => (
-                        <button key={index} onClick={() => handleAnswers(answer)}>
+                        <div className='button' key={index} onClick={() => handleAnswers(answer)}>
                             {answer.text}
-                        </button>
+                        </div>
                     ))}
                 </div>
             </div>
