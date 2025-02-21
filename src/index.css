@@ -1,6 +1,13 @@
 * {
   margin: 0;
   box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .quiz-box {
   width: 50vw;
@@ -8,6 +15,42 @@
   border: 1px solid black;
   border-radius: 5px;
 }
+.title {
+  padding: 1rem;
+}
 .question {
   text-align: center;
+  padding: 1rem;
+}
+.answer-box {
+  height: 60%;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.value {
+  margin: 5px;
+  font-size: x-large;
+}
+.code {
+  padding: 1rem;
+  border: 1px solid black;
+}
+.button {
+  border: 1px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 4px;
+  margin: 1rem;
+  background-color: lightblue;
+  text-align: center;
+}
+.result-box {
+  height: 60%;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }

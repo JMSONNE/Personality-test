@@ -1,0 +1,82 @@
+[
+    {
+        "code": "ISTJ",
+        "type": "The Logistician",
+        "traits": "Responsible, organized, traditional"
+    },
+    {
+        "code": "ISFJ",
+        "type": "The Defender",
+        "traits": "Protective, warm, supportive"
+    },
+    {
+        "code": "INFJ",
+        "type": "The Advocate",
+        "traits": "Insightful, inspiring, reserved"
+    },
+    {
+        "code": "INTJ",
+        "type": "The Architect",
+        "traits": "Strategic, logical, innovative"
+    },
+    {
+        "code": "ISTP",
+        "type": "The Virtuoso",
+        "traits": "Practical, observant, spontaneous"
+    },
+    {
+        "code": "ISFP",
+        "type": "The Adventurer",
+        "traits": "Artistic, flexible, charming"
+    },
+    {
+        "code": "INFP",
+        "type": "The Mediator",
+        "traits": "Idealistic, empathetic, curious"
+    },
+    {
+        "code": "INTP",
+        "type": "The Logician",
+        "traits": "Analytical, abstract, independent"
+    },
+    {
+        "code": "ESTP",
+        "type": "The Entrepreneur",
+        "traits": "Energetic, perceptive, direct"
+    },
+    {
+        "code": "ESFP",
+        "type": "The Entertainer",
+        "traits": "Spontaneous, enthusiastic, friendly"
+    },
+    {
+        "code": "ENFP",
+        "type": "The Campaigner",
+        "traits": "Imaginative, curious, enthusiastic"
+    },
+    {
+        "code": "ENTP",
+        "type": "The Debater",
+        "traits": "Innovative, curious, strategic"
+    },
+    {
+        "code": "ESTJ",
+        "type": "The Executive",
+        "traits": "Organized, practical, assertive"
+    },
+    {
+        "code": "ESFJ",
+        "type": "The Consul",
+        "traits": "Caring, social, popular"
+    },
+    {
+        "code": "ENFJ",
+        "type": "The Protagonist",
+        "traits": "Charismatic, inspiring, altruistic"
+    },
+    {
+        "code": "ENTJ",
+        "type": "The Commander",
+        "traits": "Bold, strategic, efficient"
+    }
+]
