@@ -104,6 +104,8 @@ export const QuizBox = () => {
                                     <p className='value'>{personalityTraits.type}</p>
                                     <h1 className="value">Key traits:</h1>
                                     <p className='value'>{personalityTraits.traits}</p>
+                                    <h1 className="value">Description:</h1>
+                                    <p className='value'>{personalityTraits.description}</p>
                                 </>
                             )}
                         </div>

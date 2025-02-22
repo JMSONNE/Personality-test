@@ -2,81 +2,97 @@
     {
         "code": "ISTJ",
         "type": "The Logistician",
-        "traits": "Responsible, organized, traditional"
+        "traits": "Responsible, organized, traditional",
+        "description": "ISTJs are practical and fact-minded individuals, whose reliability cannot be doubted."
     },
     {
         "code": "ISFJ",
         "type": "The Defender",
-        "traits": "Protective, warm, supportive"
+        "traits": "Protective, warm, supportive",
+        "description": "ISFJs are very dedicated and warm protectors, always ready to defend their loved ones."
     },
     {
         "code": "INFJ",
         "type": "The Advocate",
-        "traits": "Insightful, inspiring, reserved"
+        "traits": "Insightful, inspiring, reserved",
+        "description": "INFJs are quiet and mystical, yet very inspiring and tireless idealists."
     },
     {
         "code": "INTJ",
         "type": "The Architect",
-        "traits": "Strategic, logical, innovative"
+        "traits": "Strategic, logical, innovative",
+        "description": "INTJs are imaginative and strategic thinkers, with a plan for everything."
     },
     {
         "code": "ISTP",
         "type": "The Virtuoso",
-        "traits": "Practical, observant, spontaneous"
+        "traits": "Practical, observant, spontaneous",
+        "description": "ISTPs are bold and practical experimenters, masters of all kinds of tools."
     },
     {
         "code": "ISFP",
         "type": "The Adventurer",
-        "traits": "Artistic, flexible, charming"
+        "traits": "Artistic, flexible, charming",
+        "description": "ISFPs are flexible and charming artists, always ready to explore and experience something new."
     },
     {
         "code": "INFP",
         "type": "The Mediator",
-        "traits": "Idealistic, empathetic, curious"
+        "traits": "Idealistic, empathetic, curious",
+        "description": "INFPs are poetic, kind and altruistic people, always eager to help a good cause."
     },
     {
         "code": "INTP",
         "type": "The Logician",
-        "traits": "Analytical, abstract, independent"
+        "traits": "Analytical, abstract, independent",
+        "description": "INTPs are innovative inventors with an unquenchable thirst for knowledge."
     },
     {
         "code": "ESTP",
         "type": "The Entrepreneur",
-        "traits": "Energetic, perceptive, direct"
+        "traits": "Energetic, perceptive, direct",
+        "description": "ESTPs are smart, energetic and very perceptive people, who truly enjoy living on the edge."
     },
     {
         "code": "ESFP",
         "type": "The Entertainer",
-        "traits": "Spontaneous, enthusiastic, friendly"
+        "traits": "Spontaneous, enthusiastic, friendly",
+        "description": "ESFPs are spontaneous, energetic and enthusiastic entertainers – life is never boring around them."
     },
     {
         "code": "ENFP",
         "type": "The Campaigner",
-        "traits": "Imaginative, curious, enthusiastic"
+        "traits": "Imaginative, curious, enthusiastic",
+        "description": "ENFPs are enthusiastic, creative and sociable free spirits, who can always find a reason to smile."
     },
     {
         "code": "ENTP",
         "type": "The Debater",
-        "traits": "Innovative, curious, strategic"
+        "traits": "Innovative, curious, strategic",
+        "description": "ENTPs are smart and curious thinkers who cannot resist an intellectual challenge."
     },
     {
         "code": "ESTJ",
         "type": "The Executive",
-        "traits": "Organized, practical, assertive"
+        "traits": "Organized, practical, assertive",
+        "description": "ESTJs are excellent administrators, unsurpassed at managing things – or people."
     },
     {
         "code": "ESFJ",
         "type": "The Consul",
-        "traits": "Caring, social, popular"
+        "traits": "Caring, social, popular",
+        "description": "ESFJs are extraordinarily caring, social and popular people, always eager to help."
     },
     {
         "code": "ENFJ",
         "type": "The Protagonist",
-        "traits": "Charismatic, inspiring, altruistic"
+        "traits": "Charismatic, inspiring, altruistic",
+        "description": "ENFJs are charismatic and inspiring leaders, able to mesmerize their listeners."
     },
     {
         "code": "ENTJ",
         "type": "The Commander",
-        "traits": "Bold, strategic, efficient"
+        "traits": "Bold, strategic, efficient",
+        "description": "ENTJs are bold, imaginative and strong-willed leaders, always finding a way – or making one."
     }
 ]
