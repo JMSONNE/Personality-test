@@ -2,81 +2,113 @@
     {
         "code": "ISTJ",
         "type": "The Logistician",
-        "traits": "Responsible, organized, traditional"
+        "traits": "Responsible, organized, traditional",
+        "description": "ISTJs are practical and fact-minded individuals, whose reliability cannot be doubted. They are known for their integrity, logical thinking, and dedication to duty. ISTJs value traditions and loyalty, and they often take on roles that require meticulous attention to detail and a strong sense of responsibility.",
+        "color": "blue"
     },
     {
         "code": "ISFJ",
         "type": "The Defender",
-        "traits": "Protective, warm, supportive"
+        "traits": "Protective, warm, supportive",
+        "description": "ISFJs are very dedicated and warm protectors, always ready to defend their loved ones. They are known for their empathy, patience, and strong sense of duty. ISFJs often go above and beyond to ensure the well-being of others, making them reliable and compassionate caregivers.",
+        "color": "blue"
     },
     {
         "code": "INFJ",
         "type": "The Advocate",
-        "traits": "Insightful, inspiring, reserved"
+        "traits": "Insightful, inspiring, reserved",
+        "description": "INFJs are quiet and mystical, yet very inspiring and tireless idealists. They are known for their deep insights, creativity, and strong sense of purpose. INFJs often seek to make a positive impact on the world, using their intuition and empathy to guide and inspire others.",
+        "color": "purple"
     },
     {
         "code": "INTJ",
         "type": "The Architect",
-        "traits": "Strategic, logical, innovative"
+        "traits": "Strategic, logical, innovative",
+        "description": "INTJs are imaginative and strategic thinkers, with a plan for everything. They are known for their analytical minds, independence, and determination. INTJs often excel in fields that require complex problem-solving and long-term planning, using their innovative ideas to achieve their goals.",
+        "color": "purple"
     },
     {
         "code": "ISTP",
         "type": "The Virtuoso",
-        "traits": "Practical, observant, spontaneous"
+        "traits": "Practical, observant, spontaneous",
+        "description": "ISTPs are bold and practical experimenters, masters of all kinds of tools. They are known for their hands-on approach, adaptability, and keen observational skills. ISTPs often thrive in environments that allow them to explore and tinker, using their resourcefulness to solve practical problems.",
+        "color": "cyan"
     },
     {
         "code": "ISFP",
         "type": "The Adventurer",
-        "traits": "Artistic, flexible, charming"
+        "traits": "Artistic, flexible, charming",
+        "description": "ISFPs are flexible and charming artists, always ready to explore and experience something new. They are known for their creativity, spontaneity, and sensitivity. ISFPs often seek out new experiences and express themselves through various forms of art, bringing beauty and joy to the world around them.",
+        "color": "cyan"
     },
     {
         "code": "INFP",
         "type": "The Mediator",
-        "traits": "Idealistic, empathetic, curious"
+        "traits": "Idealistic, empathetic, curious",
+        "description": "INFPs are poetic, kind and altruistic people, always eager to help a good cause. They are known for their deep empathy, idealism, and strong sense of values. INFPs often strive to make the world a better place, using their creativity and compassion to support and inspire others.",
+        "color": "magenta"
     },
     {
         "code": "INTP",
         "type": "The Logician",
-        "traits": "Analytical, abstract, independent"
+        "traits": "Analytical, abstract, independent",
+        "description": "INTPs are innovative inventors with an unquenchable thirst for knowledge. They are known for their logical thinking, curiosity, and independence. INTPs often enjoy exploring complex theories and ideas, using their analytical skills to understand and solve intellectual challenges.",
+        "color": "blue"
     },
     {
         "code": "ESTP",
         "type": "The Entrepreneur",
-        "traits": "Energetic, perceptive, direct"
+        "traits": "Energetic, perceptive, direct",
+        "description": "ESTPs are smart, energetic and very perceptive people, who truly enjoy living on the edge. They are known for their boldness, practicality, and quick thinking. ESTPs often thrive in dynamic environments, using their sharp instincts and charisma to navigate and seize opportunities.",
+        "color": "orange"
     },
     {
         "code": "ESFP",
         "type": "The Entertainer",
-        "traits": "Spontaneous, enthusiastic, friendly"
+        "traits": "Spontaneous, enthusiastic, friendly",
+        "description": "ESFPs are spontaneous, energetic and enthusiastic entertainers – life is never boring around them. They are known for their vivacity, sociability, and love of fun. ESFPs often bring joy and excitement to those around them, using their charm and enthusiasm to create memorable experiences.",
+        "color": "yellow"
     },
     {
         "code": "ENFP",
         "type": "The Campaigner",
-        "traits": "Imaginative, curious, enthusiastic"
+        "traits": "Imaginative, curious, enthusiastic",
+        "description": "ENFPs are enthusiastic, creative and sociable free spirits, who can always find a reason to smile. They are known for their optimism, curiosity, and passion. ENFPs often inspire others with their innovative ideas and infectious energy, seeking to make meaningful connections and positive changes.",
+        "color": "orange"
     },
     {
         "code": "ENTP",
         "type": "The Debater",
-        "traits": "Innovative, curious, strategic"
+        "traits": "Innovative, curious, strategic",
+        "description": "ENTPs are smart and curious thinkers who cannot resist an intellectual challenge. They are known for their quick wit, creativity, and love of debate. ENTPs often enjoy exploring new ideas and possibilities, using their strategic thinking to challenge the status quo and find innovative solutions.",
+        "color": "red"
     },
     {
         "code": "ESTJ",
         "type": "The Executive",
-        "traits": "Organized, practical, assertive"
+        "traits": "Organized, practical, assertive",
+        "description": "ESTJs are excellent administrators, unsurpassed at managing things – or people. They are known for their leadership skills, efficiency, and strong sense of duty. ESTJs often excel in roles that require organization and structure, using their practical approach to achieve their goals and maintain order.",
+        "color": "gray"
     },
     {
         "code": "ESFJ",
         "type": "The Consul",
-        "traits": "Caring, social, popular"
+        "traits": "Caring, social, popular",
+        "description": "ESFJs are extraordinarily caring, social and popular people, always eager to help. They are known for their warmth, generosity, and strong sense of community. ESFJs often go out of their way to support and uplift others, using their social skills to create harmonious and inclusive environments.",
+        "color": "light-green"
     },
     {
         "code": "ENFJ",
         "type": "The Protagonist",
-        "traits": "Charismatic, inspiring, altruistic"
+        "traits": "Charismatic, inspiring, altruistic",
+        "description": "ENFJs are charismatic and inspiring leaders, able to mesmerize their listeners. They are known for their empathy, vision, and strong sense of purpose. ENFJs often motivate and guide others towards positive change, using their natural charisma and altruism to make a lasting impact.",
+        "color": "light-yellow"
     },
     {
         "code": "ENTJ",
         "type": "The Commander",
-        "traits": "Bold, strategic, efficient"
+        "traits": "Bold, strategic, efficient",
+        "description": "ENTJs are bold, imaginative and strong-willed leaders, always finding a way – or making one. They are known for their determination, strategic thinking, and leadership skills. ENTJs often excel in positions of authority, using their vision and efficiency to drive progress and achieve their objectives.",
+        "color": "viloet"
     }
 ]

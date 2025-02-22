@@ -10,7 +10,7 @@
   align-items: center;
 }
 .quiz-box {
-  width: 50vw;
+  width: 80vw;
   height: 65vh;
   border: 1px solid black;
   border-radius: 5px;
@@ -41,13 +41,15 @@
   background-color: white;
 }
 .button {
-  border: 1px solid black;
+  border: 1px solid #1211e775;
   border-radius: 5px;
   cursor: pointer;
-  padding: 4px;
+  padding: 10px;
   margin: 1rem;
-  background-color: rgb(255, 255, 255);
+  background-color: #27b2ff;
   text-align: center;
+  color: white;
+  font-family: roboto;
 }
 .result-box {
   height: 60%;
