@@ -53,7 +53,7 @@
         "type": "The Logician",
         "traits": "Analytical, abstract, independent",
         "description": "INTPs are innovative inventors with an unquenchable thirst for knowledge. They are known for their logical thinking, curiosity, and independence. INTPs often enjoy exploring complex theories and ideas, using their analytical skills to understand and solve intellectual challenges.",
-        "color": "magenta"
+        "color": "blue"
     },
     {
         "code": "ESTP",
@@ -67,48 +67,48 @@
         "type": "The Entertainer",
         "traits": "Spontaneous, enthusiastic, friendly",
         "description": "ESFPs are spontaneous, energetic and enthusiastic entertainers – life is never boring around them. They are known for their vivacity, sociability, and love of fun. ESFPs often bring joy and excitement to those around them, using their charm and enthusiasm to create memorable experiences.",
-        "color": "orange"
+        "color": "yellow"
     },
     {
         "code": "ENFP",
         "type": "The Campaigner",
         "traits": "Imaginative, curious, enthusiastic",
         "description": "ENFPs are enthusiastic, creative and sociable free spirits, who can always find a reason to smile. They are known for their optimism, curiosity, and passion. ENFPs often inspire others with their innovative ideas and infectious energy, seeking to make meaningful connections and positive changes.",
-        "color": "yellow"
+        "color": "orange"
     },
     {
         "code": "ENTP",
         "type": "The Debater",
         "traits": "Innovative, curious, strategic",
         "description": "ENTPs are smart and curious thinkers who cannot resist an intellectual challenge. They are known for their quick wit, creativity, and love of debate. ENTPs often enjoy exploring new ideas and possibilities, using their strategic thinking to challenge the status quo and find innovative solutions.",
-        "color": "yellow"
+        "color": "red"
     },
     {
         "code": "ESTJ",
         "type": "The Executive",
         "traits": "Organized, practical, assertive",
         "description": "ESTJs are excellent administrators, unsurpassed at managing things – or people. They are known for their leadership skills, efficiency, and strong sense of duty. ESTJs often excel in roles that require organization and structure, using their practical approach to achieve their goals and maintain order.",
-        "color": "red"
+        "color": "gray"
     },
     {
         "code": "ESFJ",
         "type": "The Consul",
         "traits": "Caring, social, popular",
         "description": "ESFJs are extraordinarily caring, social and popular people, always eager to help. They are known for their warmth, generosity, and strong sense of community. ESFJs often go out of their way to support and uplift others, using their social skills to create harmonious and inclusive environments.",
-        "color": "red"
+        "color": "light-green"
     },
     {
         "code": "ENFJ",
         "type": "The Protagonist",
         "traits": "Charismatic, inspiring, altruistic",
         "description": "ENFJs are charismatic and inspiring leaders, able to mesmerize their listeners. They are known for their empathy, vision, and strong sense of purpose. ENFJs often motivate and guide others towards positive change, using their natural charisma and altruism to make a lasting impact.",
-        "color": "violet"
+        "color": "light-yellow"
     },
     {
         "code": "ENTJ",
         "type": "The Commander",
         "traits": "Bold, strategic, efficient",
         "description": "ENTJs are bold, imaginative and strong-willed leaders, always finding a way – or making one. They are known for their determination, strategic thinking, and leadership skills. ENTJs often excel in positions of authority, using their vision and efficiency to drive progress and achieve their objectives.",
-        "color": "violet"
+        "color": "viloet"
     }
 ]
