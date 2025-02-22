@@ -95,7 +95,6 @@ export const QuizBox = () => {
                 <div className="quiz-box">
                     <div className="question">
                         <h1 className='title'>You are:</h1>
-                        <hr />
                         <div className="result-box">
                             {personalityTraits && (
                                 <>
@@ -121,7 +120,7 @@ export const QuizBox = () => {
             <div className="quiz-box">
                 <div className="question">
                     <h1>{questions[currentQuestion].question}</h1>
-                    <hr />
+                    <h3 className="question-count">Question: {currentQuestion + 1}/20</h3>
                 </div>
 
                 <div className="answer-box">

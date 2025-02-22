@@ -22,7 +22,8 @@
 }
 .question {
   text-align: center;
-  padding: 1rem;
+  padding: 2rem;
+  border-bottom: 1px solid black;
 }
 .answer-box {
   margin-top: 1rem;
@@ -49,6 +50,10 @@
   background-color: #27b2ff;
   text-align: center;
   color: white;
+  width: 150px;
+  max-width: 40%;
+  height: 100px;
+  max-height: 20%;
 }
 .result-box {
   height: 60%;
