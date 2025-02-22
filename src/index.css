@@ -11,6 +11,7 @@
 }
 .quiz-box {
   width: 80vw;
+  min-height: 85vh;
   border: 1px solid black;
   border-radius: 5px;
   background-color: rgb(211, 211, 211);
