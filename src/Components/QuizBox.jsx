@@ -97,21 +97,23 @@ export const QuizBox = () => {
                         <h1 className='title'>You are:</h1>
                         <hr />
                         <div className="result-box">
-                            <p className='value code'>{personalityType}</p>
+                            <p className='value code' style={{ marginBottom: '1rem' }}>{personalityType}</p>
                             {personalityTraits && (
                                 <>
                                     <h1 className="value">Name:</h1>
-                                    <p className='value'>{personalityTraits.type}</p>
+                                    <p className='value' style={{ marginBottom: '1rem' }}>{personalityTraits.type}</p>
                                     <h1 className="value">Key traits:</h1>
-                                    <p className='value'>{personalityTraits.traits}</p>
+                                    <p className='value' style={{ marginBottom: '1rem' }}>{personalityTraits.traits}</p>
                                     <h1 className="value">Description:</h1>
                                     <p className='value'>{personalityTraits.description}</p>
                                 </>
                             )}
+
+                            <div className="button" onClick={() => window.location.reload()}>Restart</div>
                         </div>
                     </div>
                 </div>
-            </div>
+            </div >
         );
     }
 
