@@ -2,14 +2,14 @@
     {
         "code": "ISTJ",
         "type": "The Logistician",
-        "traits": "Responsible, organized, traditional",
+        "traits": "Introverted, Sensing, Thinking, Judging",
         "description": "Logisticians are practical and fact-minded individuals, whose reliability cannot be doubted. They are known for their integrity, logical thinking, and dedication to duty. ISTJs value traditions and loyalty, and they often take on roles that require meticulous attention to detail and a strong sense of responsibility.",
         "color": "SlateBlue"
     },
     {
         "code": "ISFJ",
         "type": "The Defender",
-        "traits": "Protective, warm, supportive",
+        "traits": "Introverted, Sensing, Feeling, Judging",
         "description": "Defenders are very dedicated and warm protectors, always ready to defend their loved ones. They are known for their empathy, patience, and strong sense of duty. ISFJs often go above and beyond to ensure the well-being of others, making them reliable and compassionate caregivers.",
         "color": "DarkSeaGreen"
     },
