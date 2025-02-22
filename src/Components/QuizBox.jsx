@@ -123,6 +123,7 @@ export const QuizBox = () => {
                     <h1>{questions[currentQuestion].question}</h1>
                     <hr />
                 </div>
+
                 <div className="answer-box">
                     {questions[currentQuestion].answers.map((answer, index) => (
                         <div className='button' key={index} onClick={() => handleAnswers(answer)}>
