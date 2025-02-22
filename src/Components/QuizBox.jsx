@@ -99,7 +99,7 @@ export const QuizBox = () => {
                         <div className="result-box">
                             {personalityTraits && (
                                 <>
-                                    <p className='value code' style={{ marginBottom: '1rem', backgroundColor: personalityTraits.color, color: 'white' }}>{personalityType}</p>
+                                    <p className='value code' style={{ marginBottom: '1rem', backgroundColor: personalityTraits.color, color: 'gray' }}>{personalityType}</p>
                                     <h1 className="value">Name:</h1>
                                     <p className='value' style={{ marginBottom: '1rem' }}>{personalityTraits.type}</p>
                                     <h1 className="value">Key traits:</h1>
