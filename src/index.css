@@ -49,10 +49,11 @@
   margin: 1rem;
   background-color: #27b2ff;
   text-align: center;
+  align-content: center;
   color: white;
   width: 150px;
   max-width: 40%;
-  height: 100px;
+  height: 125px;
   max-height: 25%;
 }
 .result-box {
