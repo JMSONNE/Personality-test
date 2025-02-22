@@ -95,7 +95,6 @@ export const QuizBox = () => {
                 <div className="quiz-box">
                     <div className="question">
                         <h1 className='title'>You are:</h1>
-                        <hr />
                         <div className="result-box">
                             {personalityTraits && (
                                 <>
@@ -108,7 +107,7 @@ export const QuizBox = () => {
                                     <p className='value'>{personalityTraits.description}</p>
                                 </>
                             )}
-                            <div className="button" onClick={() => window.location.reload()}>Restart</div>
+                            <div className="button" style={{ height: '3rem' }} onClick={() => window.location.reload()}>Restart</div>
                         </div>
                     </div>
                 </div>
@@ -121,7 +120,7 @@ export const QuizBox = () => {
             <div className="quiz-box">
                 <div className="question">
                     <h1>{questions[currentQuestion].question}</h1>
-                    <hr />
+                    <h3 className="question-count">Question: {currentQuestion + 1}/20</h3>
                 </div>
 
                 <div className="answer-box">
