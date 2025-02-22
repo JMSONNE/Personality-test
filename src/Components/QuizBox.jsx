@@ -107,7 +107,7 @@ export const QuizBox = () => {
                                     <p className='value'>{personalityTraits.description}</p>
                                 </>
                             )}
-                            <div className="button" onClick={() => window.location.reload()}>Restart</div>
+                            <div className="button" style={{ height: '3rem' }} onClick={() => window.location.reload()}>Restart</div>
                         </div>
                     </div>
                 </div>
